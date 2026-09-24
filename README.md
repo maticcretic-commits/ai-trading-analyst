@@ -1,5 +1,10 @@
 # AI Trading Analyst
 
+[![GitHub stars](https://img.shields.io/github/stars/maticcretic-commits/ai-trading-analyst?style=social)](https://github.com/maticcretic-commits/ai-trading-analyst/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/maticcretic-commits/ai-trading-analyst)](https://github.com/maticcretic-commits/ai-trading-analyst/commits/main)
+[![Cost: Free](https://img.shields.io/badge/cost-%E2%82%B90-brightgreen)](https://github.com/maticcretic-commits/ai-trading-analyst)
+
+
 A portfolio practice project: a **Claude-assisted trade analysis bot** starter —
 the pattern behind "$2,500 fixed" Interactive-Brokers + Claude integration gigs.
 
